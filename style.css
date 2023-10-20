@@ -1,0 +1,30 @@
+.cal
+{
+    border: 1px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 350px;
+    background-color: rgb(83, 224, 182);
+    border-radius: 9px;
+}
+input
+{
+    height:50px;
+    width: 290px;
+    color: blue;
+    text-align: end;
+    font-size: xx-large;
+}
+button
+{
+    padding: 30px;
+    margin-top: 10px;
+    font-size:medium;
+}
+button:active
+{
+    background-color: rgb(15, 15, 17);
+    color:red;
+}
